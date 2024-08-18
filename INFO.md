@@ -1,8 +1,4 @@
-**Data Science using Python**
-
-**2024 - MBA DSA_29**
-
-![image](https://github.com/user-attachments/assets/6e772f9b-6145-4dbd-b1a6-824319940255)
+![image](https://github.com/user-attachments/assets/8cee25ed-5801-445c-a268-1a6373517a1f)
 
 
 ### PROJETO 01 
