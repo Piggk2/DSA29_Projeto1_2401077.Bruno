@@ -39,4 +39,3 @@ if __name__ == "__main__":
     for morse_code, expected_output in scenarios:
         decoded_message = decode_morse(morse_code, dict_morse)
         save_clear_msg_csv_hdr("decode_morse.csv", decoded_message)
-        print(f"Mensagem decodificada: '{decoded_message}' salva no arquivo.") 
