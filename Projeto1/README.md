@@ -1,3 +1,5 @@
+
+
 # Morse Code Decoder
 
 Este projeto é um decodificador de código Morse que traduz mensagens codificadas em Morse para texto legível e salva as mensagens decodificadas em um arquivo CSV com a data e hora da decodificação.
